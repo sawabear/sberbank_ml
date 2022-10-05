@@ -5,7 +5,7 @@ In this project, I predict the price of electricity in Russia based on the gener
 # Details
 We load data from google drive, process, analyze, make visualizations.
 
-I make a forecast using catboost, a neural network and compare the metrics with the result of linear regression, which was used earlier in the company.
+We make a forecast using catboost, a neural network and compare the metrics with the result of linear regression, which was used earlier in the company.
 
 # Use
 1. pandas
