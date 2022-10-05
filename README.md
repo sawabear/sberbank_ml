@@ -10,5 +10,5 @@ We make a forecast using catboost, a neural network and compare the metrics with
 # Use
 1. pandas
 2. catboost
-3. neural network
+3. pytorch
 4. seaborn
